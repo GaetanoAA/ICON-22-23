@@ -1,0 +1,632 @@
+C:\Users\dario\Desktop\Malaria\venv\Scripts\python.exe C:\Users\dario\Desktop\Malaria\main.py
+
+Training Accuracy (Ensemble): 96.71%
+Test Accuracy (Ensemble): 85.78%
+
+Algorithm: svm
+Training Accuracy: 67.56%
+Test Accuracy: 67.45%
+
+Confusion Matrix:
+[[1742 1003]
+ [ 791 1976]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.63      0.66      2745
+           1       0.66      0.71      0.69      2767
+
+    accuracy                           0.67      5512
+   macro avg       0.68      0.67      0.67      5512
+weighted avg       0.68      0.67      0.67      5512
+
+
+Algorithm: dt
+Training Accuracy: 100.00%
+Test Accuracy: 83.36%
+
+Confusion Matrix:
+[[2302  443]
+ [ 474 2293]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.84      0.83      2745
+           1       0.84      0.83      0.83      2767
+
+    accuracy                           0.83      5512
+   macro avg       0.83      0.83      0.83      5512
+weighted avg       0.83      0.83      0.83      5512
+
+
+Algorithm: rf
+Training Accuracy: 100.00%
+Test Accuracy: 88.15%
+
+Confusion Matrix:
+[[2424  321]
+ [ 332 2435]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.88      0.88      2745
+           1       0.88      0.88      0.88      2767
+
+    accuracy                           0.88      5512
+   macro avg       0.88      0.88      0.88      5512
+weighted avg       0.88      0.88      0.88      5512
+
+
+Algorithm: gb
+Training Accuracy: 88.51%
+Test Accuracy: 87.10%
+
+Confusion Matrix:
+[[2413  332]
+ [ 379 2388]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.88      0.87      2745
+           1       0.88      0.86      0.87      2767
+
+    accuracy                           0.87      5512
+   macro avg       0.87      0.87      0.87      5512
+weighted avg       0.87      0.87      0.87      5512
+
+
+Algorithm: ab
+Training Accuracy: 86.90%
+Test Accuracy: 85.74%
+
+Confusion Matrix:
+[[2357  388]
+ [ 398 2369]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.86      0.86      0.86      2745
+           1       0.86      0.86      0.86      2767
+
+    accuracy                           0.86      5512
+   macro avg       0.86      0.86      0.86      5512
+weighted avg       0.86      0.86      0.86      5512
+
+
+Algorithm: nb
+Training Accuracy: 65.84%
+Test Accuracy: 65.77%
+
+Confusion Matrix:
+[[1932  813]
+ [1074 1693]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.64      0.70      0.67      2745
+           1       0.68      0.61      0.64      2767
+
+    accuracy                           0.66      5512
+   macro avg       0.66      0.66      0.66      5512
+weighted avg       0.66      0.66      0.66      5512
+
+
+Algorithm: knn
+Training Accuracy: 80.07%
+Test Accuracy: 69.45%
+
+Confusion Matrix:
+[[1896  849]
+ [ 835 1932]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.69      0.69      2745
+           1       0.69      0.70      0.70      2767
+
+    accuracy                           0.69      5512
+   macro avg       0.69      0.69      0.69      5512
+weighted avg       0.69      0.69      0.69      5512
+
+
+Number of Parasitized Images: 13779
+Number of Uninfected Images: 13779
+
+Probability (Blue > 160): 0.4792074896581755
+Probability (Blue < 160): 0.5207925103418245
+
+Immagini con macchie violacee:
+C100P61ThinF_IMG_20150918_144104_cell_162
+C100P61ThinF_IMG_20150918_144104_cell_163
+C100P61ThinF_IMG_20150918_144104_cell_164
+C100P61ThinF_IMG_20150918_144104_cell_165
+C100P61ThinF_IMG_20150918_144104_cell_166
+
+Immagini senza macchie violacee:
+C101P62ThinF_IMG_20150918_151239_cell_96
+C101P62ThinF_IMG_20150923_165215_cell_25
+C102P63ThinF_IMG_20150918_161826_cell_172
+C107P68ThinF_IMG_20150924_221632_cell_176
+C116P77ThinF_IMG_20150930_171219_cell_88
+
+C:\Users\dario\Desktop\Malaria\venv\Scripts\python.exe C:\Users\dario\Desktop\Malaria\main.py
+
+Training Accuracy (Ensemble): 96.75%
+Test Accuracy (Ensemble): 86.79%
+
+Algorithm: svm
+Training Accuracy: 67.41%
+Test Accuracy: 67.91%
+
+Confusion Matrix:
+[[1734 1006]
+ [ 763 2009]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.63      0.66      2740
+           1       0.67      0.72      0.69      2772
+
+    accuracy                           0.68      5512
+   macro avg       0.68      0.68      0.68      5512
+weighted avg       0.68      0.68      0.68      5512
+
+
+Algorithm: dt
+Training Accuracy: 100.00%
+Test Accuracy: 84.58%
+
+Confusion Matrix:
+[[2327  413]
+ [ 437 2335]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.85      0.85      2740
+           1       0.85      0.84      0.85      2772
+
+    accuracy                           0.85      5512
+   macro avg       0.85      0.85      0.85      5512
+weighted avg       0.85      0.85      0.85      5512
+
+
+Algorithm: rf
+Training Accuracy: 100.00%
+Test Accuracy: 88.81%
+
+Confusion Matrix:
+[[2445  295]
+ [ 322 2450]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89      2740
+           1       0.89      0.88      0.89      2772
+
+    accuracy                           0.89      5512
+   macro avg       0.89      0.89      0.89      5512
+weighted avg       0.89      0.89      0.89      5512
+
+
+Algorithm: gb
+Training Accuracy: 88.50%
+Test Accuracy: 87.63%
+
+Confusion Matrix:
+[[2413  327]
+ [ 355 2417]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.88      0.88      2740
+           1       0.88      0.87      0.88      2772
+
+    accuracy                           0.88      5512
+   macro avg       0.88      0.88      0.88      5512
+weighted avg       0.88      0.88      0.88      5512
+
+
+Algorithm: ab
+Training Accuracy: 86.44%
+Test Accuracy: 86.28%
+
+Confusion Matrix:
+[[2407  333]
+ [ 423 2349]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.88      0.86      2740
+           1       0.88      0.85      0.86      2772
+
+    accuracy                           0.86      5512
+   macro avg       0.86      0.86      0.86      5512
+weighted avg       0.86      0.86      0.86      5512
+
+
+Algorithm: nb
+Training Accuracy: 65.79%
+Test Accuracy: 67.07%
+
+Confusion Matrix:
+[[1950  790]
+ [1025 1747]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.71      0.68      2740
+           1       0.69      0.63      0.66      2772
+
+    accuracy                           0.67      5512
+   macro avg       0.67      0.67      0.67      5512
+weighted avg       0.67      0.67      0.67      5512
+
+
+Algorithm: knn
+Training Accuracy: 79.80%
+Test Accuracy: 69.92%
+
+Confusion Matrix:
+[[1913  827]
+ [ 831 1941]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.70      0.70      2740
+           1       0.70      0.70      0.70      2772
+
+    accuracy                           0.70      5512
+   macro avg       0.70      0.70      0.70      5512
+weighted avg       0.70      0.70      0.70      5512
+
+
+Number of Parasitized Images: 13779
+Number of Uninfected Images: 13779
+
+Probability (Blue > 160): 0.4792074896581755
+Probability (Blue < 160): 0.5207925103418245
+
+Immagini con macchie violacee:
+C100P61ThinF_IMG_20150918_144104_cell_162
+C100P61ThinF_IMG_20150918_144104_cell_163
+C100P61ThinF_IMG_20150918_144104_cell_164
+C100P61ThinF_IMG_20150918_144104_cell_165
+C100P61ThinF_IMG_20150918_144104_cell_166
+
+Immagini senza macchie violacee:
+C101P62ThinF_IMG_20150918_151239_cell_96
+C101P62ThinF_IMG_20150923_165215_cell_25
+C102P63ThinF_IMG_20150918_161826_cell_172
+C107P68ThinF_IMG_20150924_221632_cell_176
+C116P77ThinF_IMG_20150930_171219_cell_88
+
+
+C:\Users\dario\Desktop\Malaria\venv\Scripts\python.exe C:\Users\dario\Desktop\Malaria\main.py
+
+Training Accuracy (Ensemble): 96.75%
+Test Accuracy (Ensemble): 86.79%
+
+Algorithm: svm
+Training Accuracy: 67.41%
+Test Accuracy: 67.91%
+
+Confusion Matrix:
+[[1734 1006]
+ [ 763 2009]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.69      0.63      0.66      2740
+           1       0.67      0.72      0.69      2772
+
+    accuracy                           0.68      5512
+   macro avg       0.68      0.68      0.68      5512
+weighted avg       0.68      0.68      0.68      5512
+
+
+Algorithm: dt
+Training Accuracy: 100.00%
+Test Accuracy: 84.58%
+
+Confusion Matrix:
+[[2327  413]
+ [ 437 2335]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.84      0.85      0.85      2740
+           1       0.85      0.84      0.85      2772
+
+    accuracy                           0.85      5512
+   macro avg       0.85      0.85      0.85      5512
+weighted avg       0.85      0.85      0.85      5512
+
+
+Algorithm: rf
+Training Accuracy: 100.00%
+Test Accuracy: 88.81%
+
+Confusion Matrix:
+[[2445  295]
+ [ 322 2450]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89      2740
+           1       0.89      0.88      0.89      2772
+
+    accuracy                           0.89      5512
+   macro avg       0.89      0.89      0.89      5512
+weighted avg       0.89      0.89      0.89      5512
+
+
+Algorithm: gb
+Training Accuracy: 88.50%
+Test Accuracy: 87.63%
+
+Confusion Matrix:
+[[2413  327]
+ [ 355 2417]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.88      0.88      2740
+           1       0.88      0.87      0.88      2772
+
+    accuracy                           0.88      5512
+   macro avg       0.88      0.88      0.88      5512
+weighted avg       0.88      0.88      0.88      5512
+
+
+Algorithm: ab
+Training Accuracy: 86.44%
+Test Accuracy: 86.28%
+
+Confusion Matrix:
+[[2407  333]
+ [ 423 2349]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.88      0.86      2740
+           1       0.88      0.85      0.86      2772
+
+    accuracy                           0.86      5512
+   macro avg       0.86      0.86      0.86      5512
+weighted avg       0.86      0.86      0.86      5512
+
+
+Algorithm: nb
+Training Accuracy: 65.79%
+Test Accuracy: 67.07%
+
+Confusion Matrix:
+[[1950  790]
+ [1025 1747]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.66      0.71      0.68      2740
+           1       0.69      0.63      0.66      2772
+
+    accuracy                           0.67      5512
+   macro avg       0.67      0.67      0.67      5512
+weighted avg       0.67      0.67      0.67      5512
+
+
+Algorithm: knn
+Training Accuracy: 79.80%
+Test Accuracy: 69.92%
+
+Confusion Matrix:
+[[1913  827]
+ [ 831 1941]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.70      0.70      2740
+           1       0.70      0.70      0.70      2772
+
+    accuracy                           0.70      5512
+   macro avg       0.70      0.70      0.70      5512
+weighted avg       0.70      0.70      0.70      5512
+
+
+Number of Parasitized Images: 13779
+Number of Uninfected Images: 13779
+
+Probability (Blue > 160): 0.4792074896581755
+Probability (Blue < 160): 0.5207925103418245
+
+Immagini con macchie violacee:
+C100P61ThinF_IMG_20150918_144104_cell_162
+C100P61ThinF_IMG_20150918_144104_cell_163
+C100P61ThinF_IMG_20150918_144104_cell_164
+C100P61ThinF_IMG_20150918_144104_cell_165
+C100P61ThinF_IMG_20150918_144104_cell_166
+
+Immagini senza macchie violacee:
+C101P62ThinF_IMG_20150918_151239_cell_96
+C101P62ThinF_IMG_20150923_165215_cell_25
+C102P63ThinF_IMG_20150918_161826_cell_172
+C107P68ThinF_IMG_20150924_221632_cell_176
+C116P77ThinF_IMG_20150930_171219_cell_88
+
+C:\Users\dario\Desktop\Malaria\venv\Scripts\python.exe C:\Users\dario\Desktop\Malaria\main.py
+
+Training Accuracy (Ensemble): 96.60%
+Test Accuracy (Ensemble): 87.26%
+
+Algorithm: svm
+Training Accuracy: 67.51%
+Test Accuracy: 67.56%
+
+Confusion Matrix:
+[[1736 1028]
+ [ 760 1988]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.70      0.63      0.66      2764
+           1       0.66      0.72      0.69      2748
+
+    accuracy                           0.68      5512
+   macro avg       0.68      0.68      0.67      5512
+weighted avg       0.68      0.68      0.67      5512
+
+
+Algorithm: dt
+Training Accuracy: 100.00%
+Test Accuracy: 85.61%
+
+Confusion Matrix:
+[[2377  387]
+ [ 406 2342]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.86      0.86      2764
+           1       0.86      0.85      0.86      2748
+
+    accuracy                           0.86      5512
+   macro avg       0.86      0.86      0.86      5512
+weighted avg       0.86      0.86      0.86      5512
+
+
+Algorithm: rf
+Training Accuracy: 100.00%
+Test Accuracy: 89.68%
+
+Confusion Matrix:
+[[2477  287]
+ [ 282 2466]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.90      0.90      2764
+           1       0.90      0.90      0.90      2748
+
+    accuracy                           0.90      5512
+   macro avg       0.90      0.90      0.90      5512
+weighted avg       0.90      0.90      0.90      5512
+
+
+Algorithm: gb
+Training Accuracy: 88.33%
+Test Accuracy: 88.44%
+
+Confusion Matrix:
+[[2454  310]
+ [ 327 2421]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      0.89      0.89      2764
+           1       0.89      0.88      0.88      2748
+
+    accuracy                           0.88      5512
+   macro avg       0.88      0.88      0.88      5512
+weighted avg       0.88      0.88      0.88      5512
+
+
+Algorithm: ab
+Training Accuracy: 86.52%
+Test Accuracy: 86.79%
+
+Confusion Matrix:
+[[2381  383]
+ [ 345 2403]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.87      0.86      0.87      2764
+           1       0.86      0.87      0.87      2748
+
+    accuracy                           0.87      5512
+   macro avg       0.87      0.87      0.87      5512
+weighted avg       0.87      0.87      0.87      5512
+
+
+Algorithm: nb
+Training Accuracy: 64.30%
+Test Accuracy: 64.13%
+
+Confusion Matrix:
+[[2054  710]
+ [1267 1481]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.74      0.68      2764
+           1       0.68      0.54      0.60      2748
+
+    accuracy                           0.64      5512
+   macro avg       0.65      0.64      0.64      5512
+weighted avg       0.65      0.64      0.64      5512
+
+
+Algorithm: knn
+Training Accuracy: 79.90%
+Test Accuracy: 69.94%
+
+Confusion Matrix:
+[[1893  871]
+ [ 786 1962]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.71      0.68      0.70      2764
+           1       0.69      0.71      0.70      2748
+
+    accuracy                           0.70      5512
+   macro avg       0.70      0.70      0.70      5512
+weighted avg       0.70      0.70      0.70      5512
+
+
+Number of Parasitized Images: 13779
+Number of Uninfected Images: 13779
+
+Probability (Blue > 160): 0.4792074896581755
+Probability (Blue < 160): 0.5207925103418245
+
+Immagini con macchie violacee:
+C100P61ThinF_IMG_20150918_144104_cell_162
+C100P61ThinF_IMG_20150918_144104_cell_163
+C100P61ThinF_IMG_20150918_144104_cell_164
+C100P61ThinF_IMG_20150918_144104_cell_165
+C100P61ThinF_IMG_20150918_144104_cell_166
+
+Immagini senza macchie violacee:
+C101P62ThinF_IMG_20150918_151239_cell_96
+C101P62ThinF_IMG_20150923_165215_cell_25
+C102P63ThinF_IMG_20150918_161826_cell_172
+C107P68ThinF_IMG_20150924_221632_cell_176
+C116P77ThinF_IMG_20150930_171219_cell_88
